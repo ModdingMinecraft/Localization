@@ -1,0 +1,13 @@
+{
+  "language": {
+    "en_US": {
+      "region": "US",
+      "name": "English",
+      "bidirectional": false
+    }
+  },
+  "pack": {
+    "description": "Localization improvements",
+    "pack_format": 1
+  }
+}
